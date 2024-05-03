@@ -1,0 +1,9 @@
+django
+django-apscheduler
+django-filter
+django-allauth
+django-bootstrap4
+python-dotenv
+python-decouple
+django-ckeditor
+celery
